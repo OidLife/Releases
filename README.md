@@ -11,4 +11,4 @@ The OID.LIFE team is expecting v1.1.0.0 to release in about 4 months.
 - Miners will receive a block reward if valid block contains set rules. 
 
 Thank you,  
-OID Team
+[OID Team](https://oid.life/)
